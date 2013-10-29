@@ -13,6 +13,7 @@
 	"main": "dist/colorjoe.js",
 	"include": [
 		"dist/colorjoe.js",
+		"js/onecolor.js",
 		"css/colorjoe.css"
 	]
   },
