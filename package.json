@@ -12,6 +12,7 @@
 	},
 	"main": "dist/colorjoe.js",
 	"include": [
+		"dist/colorjoe.js",
 		"css/colorjoe.css"
 	]
   },
